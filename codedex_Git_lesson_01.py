@@ -13,3 +13,5 @@ def silly_goose(message):
     except:
         print('Could not decipher secret message.')
     
+def test(test):
+    print(test)
